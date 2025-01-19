@@ -6,7 +6,7 @@ I’m a passionate software developer with a big focus on making software impres
 <a href="mailto:nathaniel.martes.business@gmail.com" style="display=inline"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://nathanielmartes.com/" style="display=inline"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=whitehttps://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
-
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs,go,html,css,react,nodejs,docker,kubernetes,ansible,azure,git,mysql,mint,neovim&theme=dark&perline=9)](https://skillicons.dev)
 
