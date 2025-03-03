@@ -8,8 +8,8 @@ I’m a passionate software developer with a big focus on making software impres
 </div>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs,go,html,css,react,nodejs,docker,kubernetes,ansible,azure,git,mysql,mint,neovim&theme=dark&perline=9)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs,go,html,css,react,nodejs,fastapi,docker,kubernetes,ansible,azure,gitlab,vite,git,mysql,mint,neovim&theme=dark&perline=7)](https://skillicons.dev)
 
 
 
