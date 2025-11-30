@@ -10,7 +10,7 @@ I’m a passionate software developer with a big focus on making software impres
 <br>
 
 ### Tools I've Used
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs,go,html,css,tailwind,react,nodejs,fastapi,docker,kubernetes,ansible,azure,aws,mongodb,spring,sqlite,postgresql,gitlab,vite,git,mysql,mint,neovim,elasticsearch,bitbucket,figma&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs,go,html,css,tailwind,react,nextjs,nodejs,npm,fastapi,docker,kubernetes,ansible,azure,aws,cloudflare,vercel,mongodb,spring,maven,sqlite,postgresql,gitlab,githubactions,vite,git,mysql,mint,neovim,vscode,elasticsearch,bitbucket,figma&theme=dark&perline=7)](https://skillicons.dev)
 
 
 
