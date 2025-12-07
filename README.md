@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Hey, I'm Nate 
 
-I’m a passionate software developer with a big focus on making software impressive, reliable, and maintainable. I’m currently studying Computer Science and I’ve done undergraduate research in data science and cloud technologies. Aside from software, I also teach as a martial arts instructor, teaching individuals how to defend themselves in real world situations.
+Building reliable, well documented software that doesn't suck is my goal. I purse this goal in everything I do whether its at work, academia, or passion projects. I love the field of tech, and its ever-evolving landscapes leaves me always chasing more, maybe more than I can chew. It's worth it for the eureka moments it gives me.
 <div style="display=inline">
 <a href="https://www.linkedin.com/in/nathaniel-martes/" style="display=inline"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nathaniel.martes.business@gmail.com" style="display=inline"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
