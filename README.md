@@ -9,9 +9,24 @@ Building reliable, well documented software that doesn't suck is my goal. I purs
 </div>
 <br>
 
-### Tools I've Used
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs,go,html,css,tailwind,react,nextjs,nodejs,npm,fastapi,docker,kubernetes,ansible,azure,aws,cloudflare,vercel,mongodb,spring,maven,sqlite,postgresql,gitlab,githubactions,vite,git,mysql,mint,neovim,vscode,elasticsearch,bitbucket,figma&theme=dark&perline=7)](https://skillicons.dev)
 
+### Programming Languages
+![Programming Languages](https://skillicons.dev/icons?i=js,ts,python,java,cs,go&theme=dark&perline=7)
+
+### Frontend Development
+![Frontend Development](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite,figma&theme=dark&perline=7)
+
+### Backend & Runtime
+![Backend & Runtime](https://skillicons.dev/icons?i=nodejs,fastapi,spring,maven,npm&theme=dark&perline=7)
+
+### Databases
+![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,elasticsearch&theme=dark&perline=7)
+
+### DevOps & Infrastructure
+![DevOps & Infrastructure](https://skillicons.dev/icons?i=docker,kubernetes,ansible,gitlab,bitbucket,githubactions,aws,azure,cloudflare,vercel&theme=dark&perline=7)
+
+### Development Tools
+![Development Tools](https://skillicons.dev/icons?i=git,vscode,neovim,mint&theme=dark&perline=7)
 
 
 
