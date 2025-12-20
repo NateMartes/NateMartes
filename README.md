@@ -15,11 +15,8 @@ I'm a developer driven by the "eureka" moments found in work, academia, and pass
 ---
 ### Tech Stack
 
-**Frontend**
-![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)
-
-**Backend & Databases**
-![Skills](https://skillicons.dev/icons?i=fastapi,spring,mongodb,postgres,elasticsearch,sqlite&theme=dark)
-
-**Infrastructure & Tools**
-![Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,ansible,neovim,vscode&theme=dark)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark) |
+| **Backend & DB** | ![Backend](https://skillicons.dev/icons?i=fastapi,spring,mongodb,postgres,elasticsearch,sqlite&theme=dark) |
+| **Infra & Tools** | ![Infra](https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,ansible,neovim,vscode&theme=dark) |
