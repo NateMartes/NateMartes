@@ -20,3 +20,6 @@ I'm a developer driven by the "eureka" moments found in work, academia, and pass
 | **Frontend** | ![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark) |
 | **Backend & DB** | ![Backend](https://skillicons.dev/icons?i=fastapi,spring,mongodb,postgres,elasticsearch,sqlite&theme=dark) |
 | **Infra & Tools** | ![Infra](https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,ansible,neovim,vscode&theme=dark) |
+
+#### Languages
+![Programming Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ichmagkase&theme=github_dark)
