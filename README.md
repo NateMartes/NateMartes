@@ -5,7 +5,7 @@ I'm a developer driven by the "eureka" moments found in work, academia, and pass
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NateMartes&layout=compact&theme=dark&hide_border=true)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NateMartes&theme=github_dark)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaniel-martes/)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://nathanielmartes.com/)
