@@ -22,4 +22,4 @@ I'm a developer driven by the "eureka" moments found in work, academia, and pass
 | **Infra & Tools** | ![Infra](https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,ansible,neovim,vscode&theme=dark) |
 
 #### Languages
-![Programming Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ichmagkase&theme=github_dark)
+![Programming Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NateMartes&theme=github_dark)
