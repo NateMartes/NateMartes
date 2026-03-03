@@ -13,13 +13,5 @@ I'm a developer driven by the "eureka" moments found in work, academia, and pass
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nathaniel.martes.business@gmail.com)
 
 ---
-### Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark) |
-| **Backend & DB** | ![Backend](https://skillicons.dev/icons?i=fastapi,spring,mongodb,postgres,elasticsearch,sqlite&theme=dark) |
-| **Infra & Tools** | ![Infra](https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,ansible,neovim,vscode&theme=dark) |
-
-#### Languages
-![Programming Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NateMartes&theme=github_dark)
+### Cool Tech I Use
+![Tech Icons](https://skillicons.dev/icons?i=react,nextjs,tailwind,go,python,docker,aws,terraform,neovim,spring,ansible,githubactions&theme=dark)
