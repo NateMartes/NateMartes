@@ -2,7 +2,7 @@
 Nathaniel Martes
 Software Engineer Intern @ Nvidia
 Prev DevOps Intern @ SEI CMU
-I do distrubed systems, automation, hackathons sometimes...
+I do distrubed systems, automation, and hackathons sometimes...
 
                                                          
                                            --+:=%@       
