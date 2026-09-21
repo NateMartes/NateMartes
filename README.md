@@ -4,10 +4,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nathaniel.martes.business@gmail.com)
 ```
 Nathaniel Martes
-Software Engineer Intern @ Nvidia
+Previous Software Engineer Intern @ Nvidia
 Open Source Developer for OpenStack Swift Object Storage
-Prev DevOps Intern @ SEI CMU
+Prev Software Engineer Intern @ VetsEZ and @ SEI CMU
 I do distrubed systems, automation, and hackathons sometimes...
+I like Python and Go (But SpringBoot x OpenAPI is cool tool!)
+Terraform my beloved...
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀
 ⠀⠀⠀⠀⢀⡴⣆⠀⠀⠀⠀⠀⣠⡀ ᶻ 𝗓 𐰁 .ᐟ ⣼⣿⡗⠀⠀⠀⠀
 ⠀⠀⠀⣠⠟⠀⠘⠷⠶⠶⠶⠾⠉⢳⡄⠀⠀⠀⠀⠀⣧⣿⠀⠀⠀⠀⠀
