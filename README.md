@@ -23,4 +23,4 @@ Terraform my beloved...
 ```
 ---
 ### Cool Tech I Like/Use
-![Tech Icons](https://skillicons.dev/icons?i=react,nextjs,tailwind,go,python,docker,aws,terraform,neovim,spring,ansible,githubactions&theme=dark)
+![Tech Icons](https://skillicons.dev/icons?i=react,nextjs,tailwind,go,python,docker,kubernetes,aws,terraform,neovim,spring,ansible,githubactions&theme=dark)
