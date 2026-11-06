@@ -4,17 +4,16 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nathaniel.martes.business@gmail.com)
 ```
 Nathaniel Martes
-Previous Software Engineer Intern @ Nvidia
-Open Source Dev for OpenStack Swift Object Storage
-Prev Software Engineer Intern @ VetsEZ and @ SEI CMU
-I do distrubed systems, automation, and hackathons sometimes...
-I like Python and Go (But SpringBoot x OpenAPI is cool tool!)
-Terraform my beloved...
+Previous Software Engineer Intern @ Nvidia, VetsEZ and SEI CMU
+Open Source Dev for Openstack (when I get some time)
+I like distrubed systems, automation (good ole Terraform), and hackathons!
+I like Python and Go, and Springboot sometimes...
 
 Let me teach you, big Oaf…. It’s not that there are things that science can’t explain. 
 You look for the rules behind those things. 
 Science is just a name for the steady, pain-in-the-ass effort that goes behind it.
  - Senku Ishigami (Dr. Stone)
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀
 ⠀⠀⠀⠀⢀⡴⣆⠀⠀⠀⠀⠀⣠⡀ ᶻ 𝗓 𐰁 .ᐟ ⣼⣿⡗⠀⠀⠀⠀
 ⠀⠀⠀⣠⠟⠀⠘⠷⠶⠶⠶⠾⠉⢳⡄⠀⠀⠀⠀⠀⣧⣿⠀⠀⠀⠀⠀
