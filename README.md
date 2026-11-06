@@ -5,11 +5,16 @@
 ```
 Nathaniel Martes
 Previous Software Engineer Intern @ Nvidia
-Open Source Developer for OpenStack Swift Object Storage
+Open Source Dev for OpenStack Swift Object Storage
 Prev Software Engineer Intern @ VetsEZ and @ SEI CMU
 I do distrubed systems, automation, and hackathons sometimes...
 I like Python and Go (But SpringBoot x OpenAPI is cool tool!)
 Terraform my beloved...
+
+Let me teach you, big Oaf…. It’s not that there are things that science can’t explain. 
+You look for the rules behind those things. 
+Science is just a name for the steady, pain-in-the-ass effort that goes behind it.
+ - Senku Ishigami (Dr. Stone)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀
 ⠀⠀⠀⠀⢀⡴⣆⠀⠀⠀⠀⠀⣠⡀ ᶻ 𝗓 𐰁 .ᐟ ⣼⣿⡗⠀⠀⠀⠀
 ⠀⠀⠀⣠⠟⠀⠘⠷⠶⠶⠶⠾⠉⢳⡄⠀⠀⠀⠀⠀⣧⣿⠀⠀⠀⠀⠀
