@@ -8,6 +8,7 @@ Previous Software Engineer Intern @ Nvidia, VetsEZ and SEI CMU
 Open Source Dev for Openstack (when I get some time)
 I like distrubed systems, automation (good ole Terraform), and hackathons!
 I like Python and Go, and Springboot sometimes...
+You don't need to go to an Ivy League or a State School to have success, I am proof!
 
 Let me teach you, big Oaf…. It’s not that there are things that science can’t explain. 
 You look for the rules behind those things. 
